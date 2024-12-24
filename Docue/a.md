@@ -2,7 +2,7 @@
 
 Step is highest level stepping.
 
-Step can be used on anything requires workload.
+Step can be used on anything that requires workload.
 If it does not require any workload, Step is not needed.
 
 Step is process over time.
