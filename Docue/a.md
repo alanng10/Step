@@ -2,7 +2,7 @@
 
 Step is most general and most level step.
 
-Step is complete.
+Step is all did.
 
 Step can be used on anything that requires workload.
 If it does not require any workload, Step is not needed.
