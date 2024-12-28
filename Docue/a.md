@@ -1,6 +1,6 @@
 # Step
 
-Step is most general and most level stepping.
+Step is most general and most level step.
 
 Step is complete.
 
