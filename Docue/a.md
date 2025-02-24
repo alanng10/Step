@@ -1,6 +1,6 @@
 # Step
 
-Step is most general and most level step.
+Step is park step.
 
 Step is did.
 
