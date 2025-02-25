@@ -1,3 +1,3 @@
 # Imagine
 
-Mind imagine video and audio has workload on body.
+Mind imagine video and audio can have workload on body.
