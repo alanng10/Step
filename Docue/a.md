@@ -53,3 +53,11 @@ Step has park mark.
 Step has park cross.
 
 Step has major.
+
+Step has major on did.
+
+Step has major on base.
+
+Step has major on cross.
+
+Step has major on noun.
