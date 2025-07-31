@@ -60,7 +60,7 @@ Step has major on certain.
 
 Step has major on base.
 
-Step has major on cross.
+Step has major on cross. 
 
 Step has major on noun.
 
