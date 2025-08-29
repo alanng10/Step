@@ -67,3 +67,5 @@ Step has major on noun.
 Step has major on range.
 
 Step is cross base range certain.
+
+Step Worth is Step gain worth.
