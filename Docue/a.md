@@ -68,6 +68,6 @@ Step has major on range.
 
 Step is cross base range certain.
 
-Step is not form specific.
+Step base is not form specific.
 
 Step Worth is Step gain worth.
